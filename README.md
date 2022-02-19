@@ -23,7 +23,13 @@ Quizz application developed to test your knowledge in Flutter. I'm using:
 - Unitary Tests;
 - GetIt for dependency injection;
 - BLoC for state management, dependency,
-- Firebase for BaaS,
+- Firebase for BaaS;
+
+<h2> Features implemented 🔥 </h2>
+
+- Login with Google;
+- Internationalization (PT-BR, EN-US, ES-ES);
+- Shimmer effects on loads;
 
 <h2> How to run? 🚀</h2>
 
