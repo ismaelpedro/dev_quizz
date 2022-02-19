@@ -7,12 +7,13 @@
 The layout was developed by [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/), and you can access it on Figma: 
 [Layout](https://www.figma.com/file/fMqKhwT9L5D3MVe4btRtG5)
 
-<h2>Tecnologias ✨</h2> 
+<h2>Tecnologies✨</h2> 
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
+- [Firebase](https://firebase.google.com/)
 
 <h2>Projeto 💻</h2>
 
