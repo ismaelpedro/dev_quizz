@@ -7,7 +7,7 @@
 The layout was developed by [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/), and you can access it on Figma: 
 [Layout](https://www.figma.com/file/fMqKhwT9L5D3MVe4btRtG5)
 
-<h2>Tecnologies✨</h2> 
+<h2>Tecnologies ✨</h2> 
 
 This project was developed with the following technologies:
 
@@ -15,7 +15,7 @@ This project was developed with the following technologies:
 - [Dart](https://dart.dev/)
 - [Firebase](https://firebase.google.com/)
 
-<h2>Projeto 💻</h2>
+<h2>Project 💻</h2>
 
 Quizz application developed to test your knowledge in Flutter. I'm using:
 
