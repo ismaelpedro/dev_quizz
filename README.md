@@ -2,9 +2,10 @@
   <img alt="DevQuiz" src=".github/devquiz.png" width="100%">
 </p>
 
-## 🔖 Layout
+<h2>Layout 🗺️</h2>
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/fMqKhwT9L5D3MVe4btRtG5/DevQuiz/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+The layout was developed by [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/), and you can access it on Figma: 
+[Layout](https://www.figma.com/file/fMqKhwT9L5D3MVe4btRtG5)
 
 <h2>Tecnologias</h2> ✨
 
