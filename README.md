@@ -21,7 +21,7 @@ Quizz application developed to test your knowledge in Flutter. I'm using:
 
 - Clean Architecture;
 - Unitary Tests;
-- GetIt for dependency injection,
+- GetIt for dependency injection;
 - BLoC for state management, dependency,
 - Firebase for BaaS,
 
